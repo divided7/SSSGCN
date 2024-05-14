@@ -1,6 +1,10 @@
 # SSSGCN
 It is currently being organized and will be open-sourced. The code and data will be made public after undergoing our de-identification review.
 ## One-Stage
+<img src="https://github.com/divided7/SSSGCN/assets/72434716/64949cdd-0f70-4f16-8e95-314db763bc70" alt="image" width="700"/>
+<img src="https://github.com/divided7/SSSGCN/assets/72434716/83d9fd28-a2b0-45bf-9b24-58e1157e6afe" alt="image" width="700"/>
+<img src="https://github.com/divided7/SSSGCN/assets/72434716/25db9e10-eaed-4869-91f2-4db914effa0c" alt="image" width="700"/>
+
 
 | Model | Taichi score MAE | Taichi classification Acc |
 |:-----:|:----------------:|:-------------------------:|
@@ -9,7 +13,7 @@ It is currently being organized and will be open-sourced. The code and data will
 |  iii  |      0.0862      |          86.26%           |
 |  iv   |      0.0782      |          95.58%           |
 
-<img src="https://github.com/divided7/SSSGCN/assets/72434716/64949cdd-0f70-4f16-8e95-314db763bc70" alt="image" width="700"/>
+
 
 
 
