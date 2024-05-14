@@ -17,9 +17,9 @@ We collected real Tai Chi video data, which was professionally annotated with sc
 
 |  ![生成样本各分数段分布](https://github.com/divided7/SSSGCN/assets/72434716/223054b6-c7d0-4576-960c-81bef97c3894)   |  ![生成样本各分数段分布(principle=0 6)](https://github.com/divided7/SSSGCN/assets/72434716/d25775a2-38e8-4c92-9b66-9db78f84d94f)   |
 | :--: | :--: |
-|  a   |  a   |
+|  principle=0.4   |  principle=0.6   |
 |  ![生成样本各分数段分布(principle=1)](https://github.com/divided7/SSSGCN/assets/72434716/f98005b6-7714-4e0f-8416-14712b8ea2f3)   |  ![均衡后生成样本各分数段分布](https://github.com/divided7/SSSGCN/assets/72434716/94da7f39-e144-4c46-8167-3b8f1452d15b)   |
-|  a   |  a   |
+|  principle=1.0   |  a   |
 
 
 ## One-Stage
