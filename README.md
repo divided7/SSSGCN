@@ -8,6 +8,7 @@ It is currently being organized and will be open-sourced. The code and data will
 |  ii   |      0.0965      |          84.42%           |
 |  iii  |      0.0862      |          86.26%           |
 |  iv   |      0.0782      |          95.58%           |
+
 ![image](https://github.com/divided7/SSSGCN/assets/72434716/64949cdd-0f70-4f16-8e95-314db763bc70)
 
 
