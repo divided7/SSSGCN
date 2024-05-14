@@ -8,6 +8,15 @@ We collected real Tai Chi video data, which was professionally annotated with sc
 
 **Why don't We directly compare feature values as in facial recognition:** In action scoring tasks, directly comparing feature values may overlook spatial and temporal information of the actions. Additionally, sports experts have pointed out that the evaluation of scores should not solely rely on the similarity of actions; it involves a certain level of subjectivity or artistry. We aim for our data to provide this information and enable the model to represent it.
 
+
+
+
+| ![8k_时间域增强分布](https://github.com/divided7/SSSGCN/assets/72434716/c78580fb-74aa-4c86-ab21-81d9792bee0f) | ![16k_时间域增强分布](https://github.com/divided7/SSSGCN/assets/72434716/c8d4de9e-7e56-4a20-9269-b7b4a12542e0) |
+| :-------------------------------: | :---------------------------------: |
+|        8x_aug      |         16x_aug         |
+
+以5%分为间隔，分数区间样本量分布如图3所示。
+
 ## One-Stage
 We initially aimed to achieve both classification and regression simultaneously through a one-stage approach. However, despite our efforts, the final classification and regression performance (as shown in model iv) did not meet our expected metrics.Additionally, under the guidance of experts, we designed a reasonable data augmentation method.
 ### Model Structure
