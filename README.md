@@ -26,6 +26,13 @@ iv)
 |  iv   |      0.0782      |          95.58%           |
 
 
+i) Extract features using the ST-GCN backbone and feed the obtained feature map into both the classification and regression heads with CoLU.
+
+ii) Building upon i, using the data augmentation.
+
+iii) Building upon ii, split the feature map along the spatial dimension into two parts, and then separately feed them into the classification and regression heads.
+
+iv) Building upon iii, concatenate the feature embeddings from the classification head with the input to the regression head.
 
 
 
