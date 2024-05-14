@@ -1,7 +1,7 @@
 # SSSGCN
 It is currently being organized and will be open-sourced. The code and data will be made public after undergoing our de-identification review.
 ## One-Stage
-We initially aimed to achieve both classification and regression simultaneously through a one-stage approach. However, despite our efforts, the final classification and regression performance (as shown in Model IV) did not meet our expected metrics.
+We initially aimed to achieve both classification and regression simultaneously through a one-stage approach. However, despite our efforts, the final classification and regression performance (as shown in model iv) did not meet our expected metrics.
 
 i) and ii)
 
