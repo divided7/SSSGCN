@@ -5,6 +5,8 @@ We collected real Tai Chi video data, which was professionally annotated with sc
 
 **Why do we use continuous variables as labels:** Although it may be cumbersome to modify the granularity of performance ratings established in classification tasks, it is generally possible to adjust them through methods such as reorganizing datasets and retraining models. Additionally, it is generally true that finer-grained classification tasks tend to be more challenging. Adopting smoothed labels and regression models can indeed lead to higher performance and finer-grained assessments, which better align with real examination and teaching scenarios. Although it requires more significant effort, this approach is more in line with real-world applications.
 
+**Why don't We directly compare feature values as in facial recognition:** In action scoring tasks, directly comparing feature values may overlook spatial and temporal information of the actions. Additionally, sports experts have pointed out that the evaluation of scores should not solely rely on the similarity of actions; it involves a certain level of subjectivity or artistry. We aim for our data to provide this information and enable the model to represent it.
+
 ## One-Stage
 We initially aimed to achieve both classification and regression simultaneously through a one-stage approach. However, despite our efforts, the final classification and regression performance (as shown in model iv) did not meet our expected metrics.Additionally, under the guidance of experts, we designed a reasonable data augmentation method.
 ### Model Structure
