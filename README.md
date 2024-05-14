@@ -2,6 +2,7 @@
 It is currently being organized and will be open-sourced. The code and data will be made public after undergoing our de-identification review.
 ## Datasets
 We collected real Tai Chi video data, which was professionally annotated with scores by sports experts. This data aims to explore potential complex action features, differing from traditional classification-based rating evaluations, such as grading actions as A, B, C, or D levels.
+**Why do we use continuous variables as labels:** Although it may be cumbersome to modify the granularity of performance ratings established in classification tasks, it is generally possible to adjust them through methods such as reorganizing datasets and retraining models. Additionally, it is generally true that finer-grained classification tasks tend to be more challenging.
 ## One-Stage
 We initially aimed to achieve both classification and regression simultaneously through a one-stage approach. However, despite our efforts, the final classification and regression performance (as shown in model iv) did not meet our expected metrics.Additionally, under the guidance of experts, we designed a reasonable data augmentation method.
 ### Model Structure
