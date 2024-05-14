@@ -1,4 +1,5 @@
 # SSSGCN
+
 It is currently being organized and will be open-sourced. The code and data will be made public after undergoing our de-identification review.
 ## Datasets
 We collected real Tai Chi video data, which was professionally annotated with scores by sports experts. This data aims to explore potential complex action features, differing from traditional classification-based rating evaluations, such as grading actions as A, B, C, or D levels.
