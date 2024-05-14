@@ -2,6 +2,7 @@
 It is currently being organized and will be open-sourced. The code and data will be made public after undergoing our de-identification review.
 ## One-Stage
 We initially aimed to achieve both classification and regression simultaneously through a one-stage approach. However, despite our efforts, the final classification and regression performance (as shown in model iv) did not meet our expected metrics.
+# Model Structure
 
 i) and ii)
 
@@ -15,6 +16,7 @@ iv)
 
 <img src="https://github.com/divided7/SSSGCN/assets/72434716/25db9e10-eaed-4869-91f2-4db914effa0c" alt="image" width="700"/>
 
+# Exp
 
 | Model | Taichi score MAE | Taichi classification Acc |
 |:-----:|:----------------:|:-------------------------:|
