@@ -13,7 +13,7 @@ We collected real Tai Chi video data, which was professionally annotated with sc
 
 | ![8k_时间域增强分布](https://github.com/divided7/SSSGCN/assets/72434716/c78580fb-74aa-4c86-ab21-81d9792bee0f) | ![16k_时间域增强分布](https://github.com/divided7/SSSGCN/assets/72434716/c8d4de9e-7e56-4a20-9269-b7b4a12542e0) |
 | :-------------------------------: | :---------------------------------: |
-|        8x_aug      |         16x_aug         |
+|        8k_aug      |         16k_aug         |
 
 |  ![生成样本各分数段分布](https://github.com/divided7/SSSGCN/assets/72434716/223054b6-c7d0-4576-960c-81bef97c3894)   |  ![生成样本各分数段分布(principle=0 6)](https://github.com/divided7/SSSGCN/assets/72434716/d25775a2-38e8-4c92-9b66-9db78f84d94f)   |
 | :--: | :--: |
