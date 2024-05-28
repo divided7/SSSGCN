@@ -74,6 +74,7 @@ ST-GCN vs STD-GCN vs SST-GCN vs SSTD-GCN vs ST-GCN++ vs SSTD-GCN++ Demo
 ### Taichi Cls Ablation
 <a href="https://colab.research.google.com/drive/1qRGd1qwgZ8h9MNg3TCbSpOy7b50atl59?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> 
 
+[Google Colab Demo](https://colab.research.google.com/drive/1qRGd1qwgZ8h9MNg3TCbSpOy7b50atl59?usp=sharing)
 
 | Model         | NTU-RGB-D | Taichi   | Param. (M) | FLOPs (G) |
 |---------------|------------|----------|------------|-----------|
@@ -83,7 +84,5 @@ ST-GCN vs STD-GCN vs SST-GCN vs SSTD-GCN vs ST-GCN++ vs SSTD-GCN++ Demo
 | ST-GCN++          | 90.50%     | 93.33%   | 3.09       | 0.60      |
 | SSTD-GCN++(ours is embedded to ST-GCN++)      | **92.00%** | **99.58%** | **0.32** | **0.61** |
 
-
-[Google Colab Demo](https://colab.research.google.com/drive/1qRGd1qwgZ8h9MNg3TCbSpOy7b50atl59?usp=sharing)
 ## Reg Exp
 ### Taichi Scoring Reg Ablation
