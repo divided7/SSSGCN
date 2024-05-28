@@ -86,3 +86,12 @@ ST-GCN vs STD-GCN vs SST-GCN vs SSTD-GCN vs ST-GCN++ vs SSTD-GCN++ Demo
 
 ## Reg Exp
 ### Taichi Scoring Reg Ablation
+
+| Model        | Spacial Separate | Temporal Dilation | Taichi score MAE |
+|--------------|------------------|-------------------|------------------|
+| ix           | ❌               | ❌                | 0.0355           |
+| x            | ❌               | ❌                | 0.0295           |
+| xi           | ❌               | ✔️                | 0.0243           |
+| xii          | ✔️               | ❌                | 0.0261           |
+| **xiii**     | **✔️**           | **✔️**            | **0.0196**       |
+
