@@ -72,6 +72,7 @@ ST-GCN vs STD-GCN vs SST-GCN vs SSTD-GCN vs ST-GCN++ vs SSTD-GCN++ Demo
 [Google Colab Demo](https://colab.research.google.com/drive/1V0WdSHMwRdxWYtxeiRg-8-VZBceH6bdE?usp=sharing) Note: the metrics in the Colab demo might experience slight variations due to version changes, but the overall performance should be approximately similar.
 
 ### Taichi Cls Ablation
+<a href="https://colab.research.google.com/drive/1qRGd1qwgZ8h9MNg3TCbSpOy7b50atl59?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> 
 [Google Colab Demo](https://colab.research.google.com/drive/1qRGd1qwgZ8h9MNg3TCbSpOy7b50atl59?usp=sharing)
 ## Reg Exp
 ### Taichi Scoring Reg Ablation
