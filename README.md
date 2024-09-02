@@ -75,6 +75,7 @@ iv) Building upon iii, concatenate the feature embeddings from the classificatio
 ![image](https://github.com/divided7/SSSGCN/assets/72434716/7123c397-661c-4718-8dfc-42aa3e5b70d1)
 ![image](https://github.com/divided7/SSSGCN/assets/72434716/60c8594d-4fef-49a2-9812-a5c9052a20d5)
 ![image](https://github.com/divided7/SSSGCN/assets/72434716/9d9b81f8-af7d-4afb-a324-12731360f32e)
+![output_SkipFrame=10_WinSize=355](https://github.com/user-attachments/assets/79da7c4e-83f7-4c30-973d-d36718ef8e8e)
 
 ### NTU-RGB-D Ablation
 ST-GCN vs STD-GCN vs SST-GCN vs SSTD-GCN vs ST-GCN++ vs SSTD-GCN++ Demo
