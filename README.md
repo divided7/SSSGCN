@@ -12,8 +12,8 @@ We collected real Tai Chi video data, which was professionally annotated with sc
 **The data provided by us is only allowed for scientific purposes and commercial use is prohibited.**
 You need to send a scanned PDF of the application to xxx@xx.com, include the following content:
 * Region (country and city)
-* organization
-* research field
+* Organization
+* Research field
 * Recent research by your team (about pose estimation)
 * Team homepage
 * Commitment and signature
