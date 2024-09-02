@@ -2,6 +2,8 @@
 
 It is currently being organized and will be open-sourced. The code and data will be made public after undergoing our de-identification review.
 ## Datasets
+**The datasets powerd by the Algorithm Department in [Hengonda](http://www.hengonda.com/)**
+
 We collected real Tai Chi video data, which was professionally annotated with scores by sports experts. This data aims to explore potential complex action features, differing from traditional classification-based rating evaluations, such as grading actions as A, B, C, or D levels.
 
 **Why do we use continuous variables as labels:** Although it may be cumbersome to modify the granularity of performance ratings established in classification tasks, it is generally possible to adjust them through methods such as reorganizing datasets and retraining models. Additionally, it is generally true that finer-grained classification tasks tend to be more challenging. Adopting smoothed labels and regression models can indeed lead to higher performance and finer-grained assessments, which better align with real examination and teaching scenarios. Although it requires more significant effort, this approach is more in line with real-world applications.
