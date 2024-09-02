@@ -1,4 +1,4 @@
-# $\mathbf{S^3}\mathbf{S^3GCN}$ 
+# $\mathbf{S ^3}\mathbf{S^3GCN}$ 
 
 It is currently being organized and will be open-sourced. The code and data will be made public after undergoing our de-identification review.
 ## Datasets
