@@ -8,7 +8,7 @@ We collected real Tai Chi video data, which was professionally annotated with sc
 
 **Why don't We directly compare feature values as in facial recognition:** In action scoring tasks, directly comparing feature values may overlook spatial and temporal information of the actions. Additionally, sports experts have pointed out that the evaluation of scores should not solely rely on the similarity of actions; it involves a certain level of subjectivity or artistry. We aim for our data to provide this information and enable the model to represent it.
 
-## Apply for datasets
+### Apply for datasets
 **The data provided by us is only allowed for scientific purposes and commercial use is prohibited.**
 You need to send a scanned PDF of the application to xxx@xx.com, include the following content:
 * Region (country and city)
