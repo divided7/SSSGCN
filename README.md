@@ -3,7 +3,7 @@
 It is currently being organized and will be open-sourced. The code and data will be made public after undergoing our de-identification review.
 ## Datasets
 **The datasets powerd by the Algorithm Department in [Hengonda](http://www.hengonda.com/)**
-<img src="https://github.com/user-attachments/assets/3b1fd9be-2068-4167-8845-5fff2fda48b5" alt="logo" width="50%" height="auto">
+<img src="https://github.com/user-attachments/assets/3b1fd9be-2068-4167-8845-5fff2fda48b5" alt="logo" width="10%" height="auto">
 
 
 We collected real Tai Chi video data, which was professionally annotated with scores by sports experts. This data aims to explore potential complex action features, differing from traditional classification-based rating evaluations, such as grading actions as A, B, C, or D levels.
