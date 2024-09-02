@@ -1,4 +1,4 @@
-# S$^3$GCN
+# S $^3$ GCN
 
 It is currently being organized and will be open-sourced. The code and data will be made public after undergoing our de-identification review.
 ## Datasets
