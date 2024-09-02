@@ -16,7 +16,7 @@ You need to send a scanned PDF of the application to xxx@xx.com, include the fol
 * Research field
 * Recent research by your team (about pose estimation)
 * Team homepage
-* Commitment and signature
+* Commitment and signature (hand writing)
 ### Augmentation
 
 | ![8k_时间域增强分布](https://github.com/divided7/SSSGCN/assets/72434716/c78580fb-74aa-4c86-ab21-81d9792bee0f) | ![16k_时间域增强分布](https://github.com/divided7/SSSGCN/assets/72434716/c8d4de9e-7e56-4a20-9269-b7b4a12542e0) |
