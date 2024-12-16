@@ -1,6 +1,11 @@
 # $\mathbf{S^3GCN}$: SPORT SCORING SIAMESE GRAPH CONVOLUTION NETWORK
 
 It is currently being organized and will be open-sourced. The code and data will be made public after undergoing our de-identification review.
+
+## News
+We have implemented a scoring system for Nanquan(南拳) based on this projection, gif demo as:
+
+
 ## Datasets
 <img src="https://github.com/user-attachments/assets/3b1fd9be-2068-4167-8845-5fff2fda48b5" alt="logo" width="30%" height="auto">
 
