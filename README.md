@@ -3,7 +3,7 @@
 It is currently being organized and will be open-sourced. The code and data will be made public after undergoing our de-identification review.
 
 ## News
-We have implemented a scoring system for Nanquan(南拳) based on this projection, gif demo as:
+We have implemented a scoring system for Nanquan(南拳) based on this projection, video demo as:
 
 [https://user-images.githubusercontent.com/15977946/124654387-0fd3c500-ded1-11eb-84f6-24eeddbf4d91.mp4](https://youtu.be/ryusg7_Xki4)
 
