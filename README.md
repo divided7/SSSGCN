@@ -5,7 +5,7 @@ It is currently being organized and will be open-sourced. The code and data will
 ## News
 We have implemented a scoring system for Nanquan(南拳) based on this projection, video demo as:
 
-[https://user-images.githubusercontent.com/15977946/124654387-0fd3c500-ded1-11eb-84f6-24eeddbf4d91.mp4](https://youtu.be/ryusg7_Xki4)
+https://youtu.be/ryusg7_Xki4
 
 ## Datasets
 <img src="https://github.com/user-attachments/assets/3b1fd9be-2068-4167-8845-5fff2fda48b5" alt="logo" width="30%" height="auto">
