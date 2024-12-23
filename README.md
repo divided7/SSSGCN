@@ -12,6 +12,9 @@ We have implemented a scoring system for Nanquan(南拳) based on this projectio
       </a>
 </div>
 
+<img width="1856" alt="image" src="https://github.com/user-attachments/assets/058c3740-eeba-4709-b4d6-fc1efefe193b" />
+
+
 ## Datasets
 <img src="https://github.com/user-attachments/assets/3b1fd9be-2068-4167-8845-5fff2fda48b5" alt="logo" width="30%" height="auto">
 
