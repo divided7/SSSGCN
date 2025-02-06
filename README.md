@@ -1,5 +1,5 @@
 # $\mathbf{S^3GCN}$: SPORT SCORING SIAMESE GRAPH CONVOLUTION NETWORK
-
+**Peper:** https://ieeexplore.ieee.org/abstract/document/10647800
 It is currently being organized and will be open-sourced. The code and data will be made public after undergoing our de-identification review.
 
 ## News
